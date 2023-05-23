@@ -52,10 +52,13 @@ $ npm start
 
 <!-- CONTRIBUTION GROUP -->
 
-> 📊 Total: <kbd>**1**</kbd>
+> 📊 Total: <kbd>**2**</kbd>
 
 <a href="https://github.com/arvinxx" title="arvinxx">
   <img src="https://avatars.githubusercontent.com/u/28616219?v=4" width="50" />
+</a>
+<a href="https://github.com/actions-user" title="actions-user">
+  <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50" />
 </a>
 
 <!-- CONTRIBUTION END -->
