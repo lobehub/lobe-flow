@@ -54,8 +54,11 @@ $ npm start
 
 <!-- CONTRIBUTION GROUP -->
 
-> 📊 Total: <kbd>**2**</kbd>
+> 📊 Total: <kbd>**3**</kbd>
 
+<a href="https://github.com/canisminor1990" title="canisminor1990">
+  <img src="https://avatars.githubusercontent.com/u/17870709?v=4" width="50" />
+</a>
 <a href="https://github.com/arvinxx" title="arvinxx">
   <img src="https://avatars.githubusercontent.com/u/28616219?v=4" width="50" />
 </a>
