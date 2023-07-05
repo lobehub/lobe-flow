@@ -4,7 +4,7 @@
   
 <img height="120" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.0.0/assets/logo-3d.webp">
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-<img height="120" src="https://npm.elemecdn.com/fluentui-emoji/icons/modern/knot.svg">
+<img height="120" src="https://npm.elemecdn.com/fluentui-emoji/icons/modern/dna.svg">
 
 <h1>Lobe Flow</h1>
 
@@ -24,7 +24,7 @@ Lobe Flow is an open-source ai powered node flow editor
 [![stargazers][stargazers-shield]][stargazers-url]
 [![issues][issues-shield]][issues-url]
   
-![](https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png)
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </div>
 
