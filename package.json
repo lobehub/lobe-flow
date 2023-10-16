@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^13",
-    "@testing-library/jest-dom": "^5",
+    "@testing-library/jest-dom": "^6",
     "@testing-library/react": "^14",
     "@types/chroma-js": "^2",
     "@types/lodash-es": "^4",
