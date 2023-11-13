@@ -19,7 +19,7 @@
   "dependencies": {
     "@lobehub/ui": "^1",
     "@vercel/analytics": "^1",
-    "next": "^13",
+    "next": "^14",
     "react": "^18",
     "react-dom": "^18"
   },
