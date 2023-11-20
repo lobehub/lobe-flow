@@ -24,7 +24,7 @@
     "react-dom": "^18"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^13",
+    "@next/eslint-plugin-next": "^14",
     "@testing-library/jest-dom": "^5",
     "@testing-library/react": "^14",
     "@types/chroma-js": "^2",
