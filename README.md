@@ -33,6 +33,10 @@ Lobe Flow is an open-source ai powered node flow editor
 You can use Gitpod for online development:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)][gitpod-url]
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)][stackblitz-url]
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)][codesandbox]
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)][codespaces]
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)][codeanywhere]
 
 Or clone it for local development:
 
@@ -86,6 +90,10 @@ This project is [MIT](./LICENSE) licensed.
 [profile-url]: https://github.com/lobehub
 [issues-url]: https://github.com/lobehub/lobe-flow/issues/new/choose
 [gitpod-url]: https://gitpod.io/#https://github.com/lobehub/lobe-flow
+[stackblitz-url]: https://stackblitz.com/github/lobehub/lobe-flow
+[codesandbox]: https://codesandbox.io/p/sandbox/github/lobehub/lobe-flow
+[codespaces]: https://codespaces.new/lobehub/lobe-flow
+[codeanywhere]: https://app.codeanywhere.com/#https://github.com/lobehub/lobe-flow
 
 <!-- SHIELD LINK GROUP -->
 
